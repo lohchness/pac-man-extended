@@ -1,0 +1,16 @@
+Level 1 ERRORS!!
+no start for PacMan
+Level 1 ERRORS!!
+less than 2 Gold and Pill
+Level 2 ERRORS!!
+NO LEVEL ERRORS
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
+[PacMan] Location: 9-8. Score: 0. Pills: 0
