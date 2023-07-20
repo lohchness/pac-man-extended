@@ -1,5 +1,7 @@
 # pac-man-extended
 
+https://github.com/lohchness/pac-man-extended/assets/50405970/8e1d84af-da21-41df-bfb7-6020dbb2d1bb
+
 # Overview
 
 This is an extended version of the classic game Pac-Man. Pac-Man will still have to eat all the pills on the board to win, but there are new enemies and mechanics.
